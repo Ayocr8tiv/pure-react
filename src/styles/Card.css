@@ -1,0 +1,45 @@
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: auto;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.card img{
+    width: 100%;
+}
+
+.first{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    justify-content: center;
+    color: black;
+}
+
+.second{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
+.card button{
+    width: 100%;
+}
+
+.icon-container{
+    color: rgb(243, 192, 8);
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.card button{
+    text-align: center;
+    text-decoration: black;
+    font-weight: bold;
+    font-size: small;
+}
